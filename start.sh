@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # Start EtherDelta
-npm run server
+Snpm run server
 exit
