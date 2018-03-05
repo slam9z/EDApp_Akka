@@ -2,5 +2,4 @@
 
 # Start EtherDelta
 npm run server
-
 exit
